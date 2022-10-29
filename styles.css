@@ -22,3 +22,18 @@ gap: 5rem;}
     
     .navbar-right,.navbar-left {display: flex;
 width: 50%; }
+
+h1 {font-size: 48px;
+font-weight: bolder;
+color: #f9faf8;}
+
+.content {display: flex
+    ; flex-direction: row;
+margin: 50px;}
+
+.content.left,.content.right {display:flex ; 
+    justify-content: center; align-items: center; 
+    flex-direction: column; 
+    width: 50%;
+   }
+   img { margin: 50px;}
