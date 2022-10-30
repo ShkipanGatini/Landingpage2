@@ -76,3 +76,18 @@ justify-content: center; }
 flex-direction: column;
 font-style: italic;
 font-weight: 200;}
+
+.last.section { display: flex;
+justify-content: center;
+align-items: center;
+background-color: #3882f6;
+height: 40%;}
+
+.footer { display: flex;
+justify-content: center;
+align-items: center;
+color: black;
+font-style: italic;
+font-weight: 200;
+width: 200px;
+padding-left: 600px ;}
