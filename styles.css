@@ -31,9 +31,24 @@ color: #f9faf8;}
     ; flex-direction: row;
 margin: 50px;}
 
-.content.left,.content.right {display:flex ; 
+.content.right {display:flex ; 
     justify-content: center; align-items: center; 
     flex-direction: column; 
-    width: 50%;
+    width: 70%;
    }
-   img { margin: 50px;}
+
+   img {  margin: 50px; margin-left: 180px;}
+
+.first-button {display: flex;
+justify-content: center; align-items: center; margin-top: 30px; margin-left: 275px ;
+
+background-color: #3882f6;
+color: white;
+width: 130px;
+height: 40px ;
+border: 2px #3882f6;
+border-radius: 10px ;
+
+}
+
+
